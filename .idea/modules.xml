@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program.iml" group="Tic-Tac-Toe/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_main.iml" group="Tic-Tac-Toe/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_test.iml" group="Tic-Tac-Toe/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers.iml" group="Tic-Tac-Toe/Problems-Reading_integer_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers_main.iml" group="Tic-Tac-Toe/Problems-Reading_integer_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers_test.iml" group="Tic-Tac-Toe/Problems-Reading_integer_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Problems-The_roots_of_an_equation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Problems-The_roots_of_an_equation.iml" group="Tic-Tac-Toe/Problems-The_roots_of_an_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Problems-The_roots_of_an_equation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Problems-The_roots_of_an_equation_main.iml" group="Tic-Tac-Toe/Problems-The_roots_of_an_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Problems-The_roots_of_an_equation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Problems-The_roots_of_an_equation_test.iml" group="Tic-Tac-Toe/Problems-The_roots_of_an_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" group="Tic-Tac-Toe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Tic-Tac-Toe/util" />
+    </modules>
+  </component>
+</project>
